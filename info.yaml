@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     346662209986757203       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     460595615082081281       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Truth Table LED - NU workshop Demo"      # Project title
   author:       "Manu B Valentin"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
